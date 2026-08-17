@@ -1,0 +1,114 @@
+country,currency,kit_price_local,subscription_price_local,shipping_local,price_id
+Albania,ALL,34900,6500,,1
+American Samoa,USD,389,65,,2
+Argentina,ARS,499999,56100,20,3
+Australia,AUD,549,139,,4
+Austria,EUR,349,50,,5
+Bahamas,BSD,389,55,,6
+Barbados,BBD,769,110,,7
+Belgium,EUR,349,50,,8
+Benin,XOF,400000,30000,,9
+Botswana,BWP,4820,688,,10
+Brazil,BRL,1400,184,,11
+Bulgaria,BGN,680,95,,12
+Burundi,BIF,1099000,143000,,13
+Canada,CAD,499,140,,14
+Chile,CLP,337000,47000,,15
+Christmas Island,AUD,549,139,,16
+Cocos (Keeling) Islands,AUD,549,139,,17
+Colombia,COP,1599000,250000,,18
+Cook Islands,NZD,588,202,,19
+Costa Rica,CRC,199000,23000,,20
+Croatia,EUR,349,50,,21
+Cyprus,EUR,349,50,,22
+Czech Republic,CZK,8800,1249,,23
+Denmark,DKK,2600,485,,24
+Dominican Republic,DOP,22999,2900,,25
+Ecuador,USD,389,45,,26
+El Salvador,USD,389,59,,27
+Estonia,EUR,349,50,,28
+Fiji,FJD,799,114,,30
+Finland,EUR,349,50,,31
+France,EUR,349,40,,32
+French Guiana,EUR,349,70,,33
+Georgia,GEL,1049,160,,34
+Germany,EUR,349,50,,35
+Ghana,GHS,5999,770,,36
+Greece,EUR,349,40,,37
+Guadeloupe,EUR,349,70,,38
+Guam,USD,600,70,,39
+Guatemala,GTQ,2999,510,,40
+Guernsey,GBP,299,75,,41
+Haiti,USD,389,60,22,42
+Heard Island and McDonald Islands,AUD,549,139,,43
+Honduras,HNL,9599,1200,,44
+Hungary,HUF,137000,17000,,45
+Iceland,ISK,52500,9259,,46
+Indonesia,IDR,5900000,750000,,47
+Iraq,IQD,525000,62885,35135,380
+Ireland,EUR,349,50,,48
+Isle of Man,GBP,299,75,,49
+Italy,EUR,349,40,,50
+Ivory Coast,XOF,247466,40244,16552,379
+Jamaica,JMD,59990,7000,,51
+Japan,JPY,49800,6600,,52
+Jersey,GBP,299,69,,53
+Kenya,KES,49900,4500,,54
+Latvia,EUR,349,50,,55
+Lithuania,EUR,349,50,,56
+Luxembourg,EUR,349,50,,57
+Madagascar,MGA,1749000,226000,,59
+Malawi,MWK,659000,64000,,60
+Malaysia,MYR,1600,220,,61
+Maldives,MVR,5999,1000,,62
+Malta,EUR,349,50,,63
+Martinique,EUR,349,41,,64
+Mayotte,EUR,349,70,,65
+Mexico,MXN,7599,1045,,66
+Micronesia,USD,389,50,20,67
+Mongolia,MNT,1525000,210000,,69
+Mozambique,MZN,22000,3000,,70
+Netherlands,EUR,349,50,,71
+New Zealand,NZD,599,79,,72
+Nigeria,NGN,590000,38000,,73
+Norfolk Island,AUD,549,139,,74
+North Macedonia,MKD,21500,3700,,58
+Northern Mariana Islands,USD,389,65,,75
+Norway,NOK,3999,569,,76
+Panama,USD,380,55,,77
+Papua New Guinea,PGK,1700,270,100,377
+Paraguay,PYG,2999000,327000,,78
+Peru,PEN,1449,169,,79
+Philippines,PHP,28000,2700,,80
+Poland,PLN,1499,335,,81
+Portugal,EUR,349,40,,82
+Puerto Rico,USD,389,99,,83
+Qatar,QAR,1640,800,,84
+Romania,RON,1699,230,,86
+Rwanda,RWF,549000,40000,,87
+Réunion,EUR,349,70,,85
+Saint Barthélemy,EUR,349,70,,88
+Saint Martin,EUR,349,70,,89
+Samoa,WST,999,139,,90
+Sierra Leone,SLE,7860,1020,,91
+Singapore,SGD,665,110,,92
+Slovakia,EUR,349,50,,93
+Slovenia,EUR,349,50,,94
+Solomon Islands,SBD,3199,424,,95
+South Sudan,USD,389,50,,96
+Spain,EUR,349,40,,97
+Sri Lanka,LKR,105000,15000,,98
+Swaziland,ZAR,6800,950,,29
+Sweden,SEK,3999,559,,99
+Switzerland,CHF,329,50,,100
+Tonga,TOP,899,120,,101
+Trinidad and Tobago,TTD,2599,365,,102
+U.S. Virgin Islands,USD,389,99,,107
+Ukraine,USD,589,75,,103
+United Kingdom,GBP,299,75,,104
+United States of America,USD,349,55,,105
+Uruguay,UYU,15990,1900,,106
+Vanuatu,VUV,39600,5660,,108
+Yemen,USD,389,50,,109
+Zambia,ZMW,10290,1160,,110
+Zimbabwe,USD,389,50,,111
