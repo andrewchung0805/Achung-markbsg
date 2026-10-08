@@ -1,0 +1,25 @@
+Year-End Date,In Orbit,Net Change,Launched (Reached Orbit),Decayed,Period,Check: Prior+Launched-Decayed=In Orbit
+12/31/2019,122,122,122,-,2019,OK
+12/31/2020,892,770,833,63,2020,OK
+12/31/2021,"1,791",899,989,90,2021,OK
+12/31/2022,"3,373","1,582","1,690",108,2022,OK
+12/31/2023,"5,268","1,895","1,984",89,2023,OK
+12/31/2024,"6,898","1,630","1,964",334,2024,OK
+12/31/2025,"9,388","2,490","3,169",679,2025,OK
+10/2/2026,"11,152","1,764","2,167",403,2026 YTD,OK
+12/31/2026,"17,100","7,712",,,2026E,
+12/31/2027,"28,900","11,800",,,2027E,
+,,,,,,
+"Notes: A9 = GCAT data date (input). Counts require Reached_Orbit = Y. Tintin A/B prototypes (launched 2/22/2018) are included from 2019 onward. No Fail_Date column in source, so no Functional count. Rows 10–11 (shaded) are SpaceX projections provided by the user, not GCAT counts; 2026E net change is vs. 12/31/2025 actual.",,,,,,
+,,,,,,
+Chart data (excludes 2026 YTD),,,,,,
+Period,Actual In Orbit,SpaceX Projection,,,,
+2019,122,,,,,
+2020,892,,,,,
+2021,"1,791",,,,,
+2022,"3,373",,,,,
+2023,"5,268",,,,,
+2024,"6,898",,,,,
+2025,"9,388",,,,,
+2026E,,"17,100",,,,
+2027E,,"28,900",,,,
